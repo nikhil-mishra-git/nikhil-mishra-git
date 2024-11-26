@@ -1,4 +1,4 @@
-![logo](https://github.com/nikhil-mishra-git/nikhil-mishra-git/blob/main/profileimg.webp)
+![logo]([https://github.com/nikhil-mishra-git/nikhil-mishra-git/blob/main/profileimg.webp](https://github.com/nikhil-mishra-git/nikhil-mishra-git/blob/main/profile-img.png))
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
 <h3 align="center">A passionate Frontend Developer 💻</h3>
 
