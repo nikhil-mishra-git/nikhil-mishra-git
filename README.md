@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-mishra-git&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-mishra-git" /> </p>
 
-- 🔭 I’m currently working on a [Employee Management System](https://imnikhil.netlify.app)
+- 🔭 I’m currently working on a [Employee Management System](https://imnikhil.netlify.app) (React Based Project)
 
 - 🌱 I’m currently focusing on   **Backend** & **Database**
 
