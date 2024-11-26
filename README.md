@@ -1,4 +1,3 @@
-![logo](https://github.com/nikhil-mishra-git/nikhil-mishra-git/blob/main/profile.png)
 <p><img width="400" align="center" src="https://github.com/nikhil-mishra-git/nikhil-mishra-git/blob/main/profile.png" alt="nikhil-mishra-git" /></p>
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
 <h3 align="center">A passionate Frontend Developer 💻</h3>
