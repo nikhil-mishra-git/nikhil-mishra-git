@@ -1,14 +1,14 @@
 <p align="center"><img width="450" align="center" src="https://github.com/nikhil-mishra-git/nikhil-mishra-git/blob/main/profile.png" alt="nikhil-mishra-git" /></p>
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
-<h3 align="center">A passionate Frontend Developer 💻</h3>
+<h3 align="center">A passionate Backend Developer 💻</h3>
 
 - 🔭 I’m currently working on a [Employee Management System](https://imnikhil.netlify.app) (React Based Project)
 
-- 🌱 I’m currently focusing on   **React** & **DSA**
+- 🌱 I’m currently focusing on   **Node JS** 
 
 - 👨‍💻 All of my projects are available at  [My Portfolio](https://imnikhil.netlify.app)
 
-- 💬 Ask me about   **Html , Css , Tailwind , JavaScript , ReactJS , C++**
+- 💬 Ask me about   **Html , Css , Tailwind , JavaScript , Node JS**
 
 - 📫 How to reach me **mishranikhil1113@gmail.com**
 
