@@ -69,9 +69,9 @@
 | Project         | Tech Used                                   | Description                                      |
 |----------------|----------------------------------------------|--------------------------------------------------|
 | **Social Post App** | Node.js, MongoDB, Tailwind, JWT         | A full stack social media post app with login   |
-| **BookNest**       | HTML, CSS, JavaScript                     | Bookstore site with checkout and payment        |
-| **Notes App**      | React, localStorage                       | Note-taking CRUD app                            |
-
+| **BookNest**       | HTML, CSS, JavaScript                    | Bookstore site with checkout and payment        |
+| **Notes App**      | React, localStorage                      | Note-taking CRUD app                            |
+| **NEWSHUNT**       | React, News API , Tailwind               | News aggregator app with category filter, search, and pagination |
 ---
 
 ## 📈 GitHub Stats
